@@ -8,7 +8,7 @@ TOOT=False
 
 BLACKLIST = {
         'users':['b@icosahedron.website','katiekats@community.highlandarrow.com','Elizafox@mst3k.interlinked.me'],
-        'instances':['icosahedron.website','slime.global','toot.cat','postgrestodon.magicannon.com']
+        'instances':['icosahedron.website','slime.global','toot.cat','postgrestodon.magicannon.com','toot.cafe']
         }
 
 # Register app - only once!
