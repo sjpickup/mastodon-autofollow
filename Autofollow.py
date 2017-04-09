@@ -7,7 +7,7 @@ DEBUG=False
 TOOT=False
 
 BLACKLIST = {
-        'users':['b@icosahedron.website','katiekats@community.highlandarrow.com','Elizafox@mst3k.interlinked.me'],
+        'users':['b@icosahedron.website','katiekats@community.highlandarrow.com','Elizafox@mst3k.interlinked.me','hatf@mastodon.cloud','hatf@cybre.space','xial@ninetailed.uk','lopatto@mastodon.xyz'],
         'instances':['icosahedron.website','slime.global','toot.cat','postgrestodon.magicannon.com','toot.cafe']
         }
 
